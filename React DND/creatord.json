@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Naruto",
+      "creator": "Masashi Kishimoto",
+      "birthdate": "1974-11-08"
+    },
+    {
+      "title": "Death Note",
+      "creator": "Tsugumi Ohba",
+      "birthdate": "1976-05-28"
+    },
+    {
+      "title": "Attack on Titan",
+      "creator": "Hajime Isayama",
+      "birthdate": "1986-08-29"
+    },
+    {
+      "title": "My Hero Academia",
+      "creator": "Kohei Horikoshi",
+      "birthdate": "1986-11-20"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "creator": "Koyoharu Gotouge",
+      "birthdate": "1989-05-05"
+    },
+    {
+      "title": "One Piece",
+      "creator": "Eiichiro Oda",
+      "birthdate": "1975-01-01"
+    },
+    {
+      "title": "Dragon Ball Z",
+      "creator": "Akira Toriyama",
+      "birthdate": "1955-04-05"
+    }
+  ]

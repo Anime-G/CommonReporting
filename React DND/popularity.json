@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Naruto",
+    "popularity_rating": 8.3
+  },
+  {
+    "title": "Death Note",
+    "popularity_rating": 9.0
+  },
+  {
+    "title": "Attack on Titan",
+    "popularity_rating": 8.52
+  },
+  {
+    "title": "My Hero Academia",
+    "popularity_rating": 8.36
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "popularity_rating": 8.66
+  },
+  {
+    "title": "One Piece",
+    "popularity_rating": 8.55
+  },
+  {
+    "title": "Dragon Ball Z",
+    "popularity_rating": 8.31
+  }
+]

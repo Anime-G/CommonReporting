@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Naruto",
+    "genre": ["Action", "Adventure", "Shounen"],
+    "episodes": 220,
+    "year": 2002,
+    "rating": 8.3
+  },
+  {
+    "title": "Death Note",
+    "genre": ["Mystery", "Psychological", "Supernatural", "Thriller"],
+    "episodes": 37,
+    "year": 2006,
+    "rating": 9.0
+  },
+  {
+    "title": "Attack on Titan",
+    "genre": ["Action", "Drama", "Fantasy", "Horror"],
+    "episodes": 75,
+    "year": 2013,
+    "rating": 8.52
+  },
+  {
+    "title": "My Hero Academia",
+    "genre": ["Action", "Comedy", "Super Power", "School", "Shounen"],
+    "episodes": 113,
+    "year": 2016,
+    "rating": 8.36
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "genre": ["Action", "Demons", "Historical", "Supernatural", "Shounen"],
+    "episodes": 26,
+    "year": 2019,
+    "rating": 8.66
+  },
+  {
+    "title": "One Piece",
+    "genre": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Shounen", "Super Power"],
+    "episodes": 1000,
+    "year": 1999,
+    "rating": 8.55
+  },
+  {
+    "title": "Dragon Ball Z",
+    "genre": ["Action", "Adventure", "Comedy", "Fantasy", "Sci-Fi", "Shounen"],
+    "episodes": 291,
+    "year": 1989,
+    "rating": 8.31
+  }
+]
+

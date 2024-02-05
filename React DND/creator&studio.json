@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Naruto",
+    "creator": "Masashi Kishimoto",
+    "studio": "Studio Pierrot"
+  },
+  {
+    "title": "Death Note",
+    "creator": "Tsugumi Ohba",
+    "studio": "Madhouse"
+  },
+  {
+    "title": "Attack on Titan",
+    "creator": "Hajime Isayama",
+    "studio": "Wit Studio"
+  },
+  {
+    "title": "My Hero Academia",
+    "creator": "Kohei Horikoshi",
+    "studio": "Bones"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "creator": "Koyoharu Gotouge",
+    "studio": "ufotable"
+  },
+  {
+    "title": "One Piece",
+    "creator": "Eiichiro Oda",
+    "studio": "Toei Animation"
+  },
+  {
+    "title": "Dragon Ball Z",
+    "creator": "Akira Toriyama",
+    "studio": "Toei Animation"
+  }
+]
